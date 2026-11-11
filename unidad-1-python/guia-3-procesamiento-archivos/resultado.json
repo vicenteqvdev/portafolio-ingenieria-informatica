@@ -1,0 +1,30 @@
+{
+    "Ventas": [
+        {
+            "producto": "Notebook",
+            "precio": 800000,
+            "cantidad": 2
+        },
+        {
+            "producto": "Mouse",
+            "precio": 15000,
+            "cantidad": 5
+        },
+        {
+            "producto": "Teclado",
+            "precio": 30000,
+            "cantidad": 3
+        },
+        {
+            "producto": "Monitor",
+            "precio": 180000,
+            "cantidad": 2
+        },
+        {
+            "producto": "Audifonos",
+            "precio": 25000,
+            "cantidad": 4
+        }
+    ],
+    "Valor total": 2225000
+}
